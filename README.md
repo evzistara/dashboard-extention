@@ -10,7 +10,7 @@ The content refreshes every time you open a new tab.
   A random dog photo from [Unsplash](https://unsplash.com) with the photographer’s name shown.  
 
 - 📖 **Random quote**  
-  Pulls a Game of Thrones quote using [Game of Thrones Quotes API](https://api.gameofthronesquotes.xyz/).  
+  Pulls a Game of Thrones quote using [Game of Thrones Quotes API](https://gameofthronesquotes.xyz/).  
 
 - ⏰ **Live clock**  
   Shows the current time, updating every second.  
